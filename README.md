@@ -1,1 +1,1 @@
-"# core" 
+My c# core project. Core is the foundation for all solutions. Highlights: .Net-on-cross-platform library architecture; data factory, logging and services interfaces; Html and generic<T> extension methods; custom EF proxy serializer (must-have for SOA+EF builds); Wpf base view models.
